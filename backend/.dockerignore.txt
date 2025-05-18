@@ -1,3 +1,4 @@
+# Prevent Docker from copying unwanted files
 __pycache__/
 *.pyc
 *.pyo
@@ -9,3 +10,5 @@ __pycache__/
 .vscode/
 .idea/
 node_modules/
+# Ignore any weird paths
+#
