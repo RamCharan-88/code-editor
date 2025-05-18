@@ -20,3 +20,5 @@ everything
 /#
 ./#
 .everything
+/copy
+.copy
