@@ -11,4 +11,7 @@ __pycache__/
 .idea/
 node_modules/
 # Ignore any weird paths
+# Ignore odd files
+everything
 #
+/everything
