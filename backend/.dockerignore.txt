@@ -16,3 +16,7 @@ everything
 #
 /everything
 /Then
+/requirements
+/#
+./#
+.everything
